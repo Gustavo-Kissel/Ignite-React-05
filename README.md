@@ -1,4 +1,4 @@
- ##gustavo-kissel-ignite-ui
+#gustavo-kissel-ignite-ui
 
 gustavo-kissel-ignite-ui is a React UI library built with Stitches and Tokens. It provides a set of commonly used components that are designed to be composable and easy to use.
 
