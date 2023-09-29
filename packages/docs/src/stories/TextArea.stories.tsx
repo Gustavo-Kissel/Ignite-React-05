@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextArea } from '@ignite-ui/react'
+import { Box, Text, TextArea } from '@gustavokissel-ignite-ui/react'
 
 export default {
   tags: ['autodocs'],
@@ -7,7 +7,7 @@ export default {
   component: TextArea,
   args: {},
   decorators: [
-    (Story) => {
+    (Story: () => any) => {
       return (
         <Box
           as="label"

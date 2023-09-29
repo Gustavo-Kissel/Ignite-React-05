@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text } from '@ignite-ui/react'
+import { Box, Text } from '@gustavokissel-ignite-ui/react'
 
 export default {
   tags: ['autodocs'],
